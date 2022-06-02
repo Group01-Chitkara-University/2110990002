@@ -90,3 +90,4 @@ int main()
     obj1.sum();
     return 0;
 }
+// We have completed inheretance.
